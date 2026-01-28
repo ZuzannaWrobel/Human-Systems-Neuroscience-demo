@@ -29,6 +29,6 @@ I uploded a part of my Senior reserach final project from my undergrad. It is hu
 
 ## Author
 
-Name, Program, Institution
+Zuzanna, PhD in neuroscience , ASU-BNI
 
 
