@@ -7,13 +7,13 @@ This is for the class
 
 ## Overview
 
-Brief description of the project and scientific question.
+This is for the class
 
  
 
 ## Data
 
-Describe data source or note if simulated/public.
+I uploded a part of my Senior reserach final project from my undergrad. It is human EEG data, gathered by me, imported and analyzed with making a machine learning predicitve model, that predicts if the participant saw red or blue light displayed on a screen, based on their alpha waves recording extracted from my EEG.
 
  
 
